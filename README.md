@@ -54,7 +54,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 
-#commercial web.html
+# commercial web.html
 
 ```
 <!DOCTYPE html>
@@ -145,8 +145,9 @@ Upload to GitHub Pages for free hosting.
 
 </body>
 </html>
+
 ```
-#Ccomweb.css
+# Ccomweb.css
 ```
 body { 
     font-family: Arial; 
@@ -203,7 +204,7 @@ footer {
     padding: 10px; 
 }
 ```
-```
+
 
 ## OUTPUT
 <img width="1920" height="1080" alt="Screenshot (926)" src="https://github.com/user-attachments/assets/e333819c-b971-4178-859d-f3cff72fca4f" />
